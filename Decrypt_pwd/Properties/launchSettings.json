@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Decrypt_pwd": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\misijsa1\\OneDrive - Reti\\Documents\\Samsung\\Pwd.txt\""
+    }
+  }
+}

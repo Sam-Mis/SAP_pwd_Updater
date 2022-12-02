@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SAP_pwd_Updater": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\misijsa1\\OneDrive - Reti\\Documents\\Samsung\\Pwd.txt\""
+    }
+  }
+}
